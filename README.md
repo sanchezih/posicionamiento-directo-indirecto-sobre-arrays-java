@@ -1,1 +1,1 @@
-# curso-java-inicial-asap-202507-p
+# posicionamiento-directo-indirecto-sobre-arrays-java
