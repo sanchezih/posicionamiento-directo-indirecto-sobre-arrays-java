@@ -1,4 +1,4 @@
-package com.github.sanchezih.java_inicial.clase03._01_ejemplos._01_arrays._02_ejemplos_posicionamiento._02_indirecto.src;
+package com.github.sanchezih.posicionamiento.indirecto;
 
 public class Empresa {
 
