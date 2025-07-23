@@ -7,6 +7,12 @@ public class Vendedor {
 
 	/*----------------------------------------------------------------------------*/
 
+	/**
+	 * Constructor para inicializar un vendedor con legajo y nombre
+	 * 
+	 * @param legajo
+	 * @param nombre
+	 */
 	public Vendedor(String legajo, String nombre) {
 		this.legajo = legajo;
 		this.nombre = nombre;

@@ -8,6 +8,14 @@ public class Venta {
 
 	/*----------------------------------------------------------------------------*/
 
+	/**
+	 * Constructor para inicializar una venta con fecha, importe y legajo del
+	 * vendedor
+	 * 
+	 * @param fecha
+	 * @param importe
+	 * @param legajoVendedor
+	 */
 	public Venta(String fecha, double importe, String legajoVendedor) {
 		this.fecha = fecha;
 		this.importe = importe;

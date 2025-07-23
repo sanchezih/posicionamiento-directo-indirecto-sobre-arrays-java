@@ -9,10 +9,11 @@ public class PagoDeFactura {
 	/*----------------------------------------------------------------------------*/
 
 	/**
+	 * Constructor para inicializar los datos de un pago de factura.
 	 * 
-	 * @param importe
-	 * @param empresa
-	 * @param mes
+	 * @param importe Monto pagado.
+	 * @param empresa Nombre de la empresa proveedora del servicio.
+	 * @param mes     Numero del mes (1 a 12) en que se realizo el pago.
 	 */
 	public PagoDeFactura(double importe, String empresa, int mes) {
 		this.importe = importe;
@@ -22,10 +23,20 @@ public class PagoDeFactura {
 
 	/*----------------------------------------------------------------------------*/
 
+	/**
+	 * Metodo para obtener el importe del pago
+	 * 
+	 * @return
+	 */
 	public double getImporte() {
 		return importe;
 	}
 
+	/**
+	 * Metodo para obtener el mes del pago
+	 * 
+	 * @return
+	 */
 	public int getMes() {
 		return mes;
 	}
