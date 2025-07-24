@@ -37,8 +37,3 @@ El posicionamiento indirecto es una tecnica donde el indice o posicion que se ut
 | Simple de implementar               | Puede requerir busquedas adicionales  |
 | Limitado a indices conocidos y secuenciales | Permite acceso por claves o referencias complejas |
 
----
-
-## Uso en Programacion
-
-Ambas tecnicas son comunes en diferentes contextos, desde acceso a arrays simples hasta sistemas que usan tablas hash, bases de datos o estructuras complejas. Comprenderlas ayuda a diseñar algoritmos y estructuras de datos eficientes y adecuadas para cada problema.
