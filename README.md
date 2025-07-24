@@ -1,5 +1,5 @@
 
-# Conceptos de Posicionamiento Directo e Indirecto en Programacion
+# Conceptos de Posicionamiento Directo e Indirecto
 
 Este repositorio contiene ejemplos y explicaciones relacionadas con los conceptos de **posicionamiento directo** e **indirecto**, usados comunmente en estructuras de datos y acceso a elementos en memoria o colecciones.
 
